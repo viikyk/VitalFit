@@ -1,4 +1,6 @@
 # BIBLIOTECAS/IMPORTS
+import time
+import random
 
 # LISTAS/DICIONÁRIOS
 alunos = []
